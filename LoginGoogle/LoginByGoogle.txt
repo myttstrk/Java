@@ -1,0 +1,6 @@
+LoginByGoogle:
+B1:Tạo cresdential 
+B2:Tạo jsp chứa đường link dẫn về servlet
+B3:Ủy quyền cho redirect link
+B4:Tạo key trong constraint
+B5:Redirect trang bất kỳ
