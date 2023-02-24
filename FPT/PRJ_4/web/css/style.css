@@ -1370,3 +1370,28 @@ blockquote {
   100% {
     stroke-dasharray: 89, 200;
     stroke-dashoffset: -136px; } }
+select option {
+  margin: 40px;
+  background: rgba(0, 0, 0, 0.3);
+  color: #fff;
+  text-shadow: 0 1px 0 rgba(0, 0, 0, 0.4);
+}
+
+select option[value="Yellow"] {
+  background-color: rgba(100, 100, 100, 0.3);
+}
+
+select option[value="Black"] {
+   background-color: rgba(150, 150, 150, 0.3);
+}
+
+select option[value="White"] {
+  background-color: rgba(200, 200, 200, 0.3);
+}
+
+select option[value="Red"] {
+   background-color: rgba(250, 250, 250, 0.3);
+}
+select option[value="White"] {
+ background-color: rgba(250, 250, 250, 0.3);
+}
